@@ -1,0 +1,14 @@
+{
+  "name": "locators-regex",
+  "version": "0.0.1",
+  "description": "A collection of useful regex pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "Steffen Gorenflo <SteffenGorenflo@gmail.com>",
+  "license": "ISC"
+}
