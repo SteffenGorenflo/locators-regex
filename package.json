@@ -9,6 +9,10 @@
   "keywords": [
     "regex"
   ],
-  "author": "Steffen Gorenflo <SteffenGorenflo@gmail.com>",
-  "license": "ISC"
+  "author": {
+    "name": "Steffen Gorenflo",
+    "email": "<SteffenGorenflo@gmail.com>"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/SteffenGorenflo/locators-regex"
 }
