@@ -1,18 +1,22 @@
 {
-  "name": "locators-regex",
+  "name": "locator-image-utility",
   "version": "0.0.1",
-  "description": "A collection of useful regex pattern",
+  "description": "Utility module for handling all image related operation",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "keywords": [
-    "regex"
+    "regex", "image", "utility", "joi", "hapi"
   ],
   "author": {
     "name": "Steffen Gorenflo",
     "email": "<SteffenGorenflo@gmail.com>"
   },
   "license": "MIT",
-  "repository": "https://github.com/SteffenGorenflo/locators-regex"
+  "repository": "https://github.com/SteffenGorenflo/locator-image-utility",
+  "dependencies": {
+    "hoek": "^2.14.0",
+    "joi": "^6.4.2"
+  }
 }
