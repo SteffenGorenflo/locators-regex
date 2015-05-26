@@ -7,7 +7,11 @@
     "test": "node test.js"
   },
   "keywords": [
-    "regex", "image", "utility", "joi", "hapi"
+    "regex",
+    "image",
+    "utility",
+    "joi",
+    "hapi"
   ],
   "author": {
     "name": "Steffen Gorenflo",
@@ -16,6 +20,7 @@
   "license": "MIT",
   "repository": "https://github.com/SteffenGorenflo/locator-image-utility",
   "dependencies": {
+    "gm": "^1.18.1",
     "joi": "^6.4.2"
   }
 }
