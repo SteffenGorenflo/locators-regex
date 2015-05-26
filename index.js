@@ -3,5 +3,3 @@ module.exports = {
     validation: require('./lib/validation.js'),
     image: require('./lib/image.js')
 };
-
-};
