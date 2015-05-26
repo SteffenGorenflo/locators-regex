@@ -10,7 +10,7 @@ npm install locator-image-utility
 
 ### Usage
 
-```
+```javascript
 // access various regexes
 var regex = require('locator-image-utility').regex
 
