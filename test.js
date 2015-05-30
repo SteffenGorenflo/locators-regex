@@ -1,6 +1,7 @@
-var regex = require('./');
+var util = require('./');
 var assert = require('assert');
 
+var regex = util.regex;
 
 // positive tests
 assert(regex.imageContentType.test("image/png"));
