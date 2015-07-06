@@ -56,3 +56,27 @@ var imageUtil = require('locator-image-utility').image
     ...
 
 ```
+
+#### Sizes
+The following sizes are used to request a picture with the query ```?size=````
+```
+ - max:
+    size: { x: 1400, y: 819}
+    name: 'max'
+ - mid :
+    size: {x: 700, y: 410}
+    name: 'mid'
+
+ - small:
+    size: {x: 400,y: 234}
+    name: 'small'
+
+ - user:
+    size: {x: 150,y: 150}
+    name: 'user'
+
+ - userThumb:
+    size: {x: 30,y: 30},
+    name: 'userThumb'
+
+```
