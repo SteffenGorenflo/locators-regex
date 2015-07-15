@@ -76,7 +76,7 @@ The following sizes are used to request a picture with the query ```?size=````
     name: 'user'
 
  - userThumb:
-    size: {x: 30,y: 30},
+    size: {x: 50,y: 50},
     name: 'userThumb'
 
 ```
