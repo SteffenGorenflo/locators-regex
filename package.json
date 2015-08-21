@@ -1,6 +1,6 @@
 {
   "name": "locator-image-utility",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "Utility module for handling all image related operation",
   "main": "index.js",
   "scripts": {
